@@ -1,0 +1,4 @@
+/home/jesus/ED/P6/wgraph_traversals/build-graph-Qt6-Profile/CMakeFiles/graph.dir
+/home/jesus/ED/P6/wgraph_traversals/build-graph-Qt6-Profile/CMakeFiles/test_graph.dir
+/home/jesus/ED/P6/wgraph_traversals/build-graph-Qt6-Profile/CMakeFiles/edit_cache.dir
+/home/jesus/ED/P6/wgraph_traversals/build-graph-Qt6-Profile/CMakeFiles/rebuild_cache.dir

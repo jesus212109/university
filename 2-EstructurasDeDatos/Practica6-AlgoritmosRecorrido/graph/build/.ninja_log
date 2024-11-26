@@ -1,0 +1,18 @@
+# ninja log v5
+791	852	1717515642636520872	test_graph	55beff2c67a3055d
+2	791	1717515642576485789	CMakeFiles/test_graph.dir/test_graph.cpp.o	2b0bfdff570c7b1f
+1	375	1716913173418994713	CMakeFiles/test_graph.dir/city.cpp.o	e73622cec724cadc
+249	259	1716913173303080387	libgraph.a	d19b8675672609db
+1	249	1716913173291089251	CMakeFiles/graph.dir/city.cpp.o	90eb4072d16d9cee
+2	822	1717515696642134196	CMakeFiles/test_graph.dir/test_graph.cpp.o	2b0bfdff570c7b1f
+822	884	1717515696706128021	test_graph	55beff2c67a3055d
+1	780	1717515865253974691	CMakeFiles/test_graph.dir/test_graph.cpp.o	2b0bfdff570c7b1f
+780	841	1717515865317971066	test_graph	55beff2c67a3055d
+2	781	1717516393865055102	CMakeFiles/test_graph.dir/test_graph.cpp.o	2b0bfdff570c7b1f
+781	843	1717516393929084625	test_graph	55beff2c67a3055d
+1	830	1717516478836304494	CMakeFiles/test_graph.dir/test_graph.cpp.o	2b0bfdff570c7b1f
+830	891	1717516478896318407	test_graph	55beff2c67a3055d
+1	778	1717516735828849128	CMakeFiles/test_graph.dir/test_graph.cpp.o	2b0bfdff570c7b1f
+778	840	1717516735888848128	test_graph	55beff2c67a3055d
+2	794	1717516826597966621	CMakeFiles/test_graph.dir/test_graph.cpp.o	2b0bfdff570c7b1f
+794	856	1717516826661956572	test_graph	55beff2c67a3055d

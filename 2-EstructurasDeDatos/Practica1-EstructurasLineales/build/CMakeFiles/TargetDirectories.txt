@@ -1,0 +1,6 @@
+/home/jesus/ED/build/CMakeFiles/test_list.dir
+/home/jesus/ED/build/CMakeFiles/test_stack.dir
+/home/jesus/ED/build/CMakeFiles/test_cdarray.dir
+/home/jesus/ED/build/CMakeFiles/test_queue.dir
+/home/jesus/ED/build/CMakeFiles/edit_cache.dir
+/home/jesus/ED/build/CMakeFiles/rebuild_cache.dir

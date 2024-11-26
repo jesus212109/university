@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "test_bstnode",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/carlos/Escritorio/2º/ED/Prácticas/P3/avl-tree/build/test_bstree",
+            "args": [ "tests_bstree/04", ],
+            "stopAtEntry": false,
+            "cwd": "${fileWorkspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Habilitar la impresión con sangría para gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Establecer tipo de desensamblado en Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+/home/jesus/ED/P6/wgraph_traversals/build-graph-Qt6-MinSizeRel/CMakeFiles/graph.dir
+/home/jesus/ED/P6/wgraph_traversals/build-graph-Qt6-MinSizeRel/CMakeFiles/test_graph.dir
+/home/jesus/ED/P6/wgraph_traversals/build-graph-Qt6-MinSizeRel/CMakeFiles/edit_cache.dir
+/home/jesus/ED/P6/wgraph_traversals/build-graph-Qt6-MinSizeRel/CMakeFiles/rebuild_cache.dir

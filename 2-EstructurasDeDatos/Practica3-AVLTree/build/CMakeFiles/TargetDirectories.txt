@@ -1,0 +1,4 @@
+/home/jesus/ED/P3/AVLTree/build/CMakeFiles/test_bstree.dir
+/home/jesus/ED/P3/AVLTree/build/CMakeFiles/test_avltree.dir
+/home/jesus/ED/P3/AVLTree/build/CMakeFiles/edit_cache.dir
+/home/jesus/ED/P3/AVLTree/build/CMakeFiles/rebuild_cache.dir

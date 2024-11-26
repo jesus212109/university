@@ -1,0 +1,12 @@
+/home/jesus/ED/P2/kdtree/debug/CMakeFiles/kdtree.dir
+/home/jesus/ED/P2/kdtree/debug/CMakeFiles/test_kdtree.dir
+/home/jesus/ED/P2/kdtree/debug/CMakeFiles/edit_cache.dir
+/home/jesus/ED/P2/kdtree/debug/CMakeFiles/rebuild_cache.dir
+/home/jesus/ED/P2/kdtree/debug/pattern/CMakeFiles/pattern.dir
+/home/jesus/ED/P2/kdtree/debug/pattern/CMakeFiles/test_pattern.dir
+/home/jesus/ED/P2/kdtree/debug/pattern/CMakeFiles/edit_cache.dir
+/home/jesus/ED/P2/kdtree/debug/pattern/CMakeFiles/rebuild_cache.dir
+/home/jesus/ED/P2/kdtree/debug/binary_tree/CMakeFiles/test_btree_node.dir
+/home/jesus/ED/P2/kdtree/debug/binary_tree/CMakeFiles/test_btree.dir
+/home/jesus/ED/P2/kdtree/debug/binary_tree/CMakeFiles/edit_cache.dir
+/home/jesus/ED/P2/kdtree/debug/binary_tree/CMakeFiles/rebuild_cache.dir

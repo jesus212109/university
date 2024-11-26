@@ -1,0 +1,4 @@
+/home/jesus/ED/P6/wgraph_traversals/graph/build/CMakeFiles/graph.dir
+/home/jesus/ED/P6/wgraph_traversals/graph/build/CMakeFiles/test_graph.dir
+/home/jesus/ED/P6/wgraph_traversals/graph/build/CMakeFiles/edit_cache.dir
+/home/jesus/ED/P6/wgraph_traversals/graph/build/CMakeFiles/rebuild_cache.dir

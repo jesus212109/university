@@ -1,0 +1,4 @@
+/home/jesus/ED/P2/binary_tree/debug/CMakeFiles/test_btree_node.dir
+/home/jesus/ED/P2/binary_tree/debug/CMakeFiles/test_btree.dir
+/home/jesus/ED/P2/binary_tree/debug/CMakeFiles/edit_cache.dir
+/home/jesus/ED/P2/binary_tree/debug/CMakeFiles/rebuild_cache.dir
