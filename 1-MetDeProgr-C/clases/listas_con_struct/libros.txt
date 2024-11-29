@@ -1,0 +1,6 @@
+Como programar en C
+Jose Barrios
+35.99
+Don Quijote de la Mancha
+Miguel de Cervantes
+19.99

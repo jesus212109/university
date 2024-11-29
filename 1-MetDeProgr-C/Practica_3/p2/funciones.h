@@ -1,0 +1,1 @@
+void randInt(char *cad, int n, int max);

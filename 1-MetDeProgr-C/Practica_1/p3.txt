@@ -1,0 +1,34 @@
+Un programa de C contiene las siguientes sentencias:
+int i, j = 25;
+int *pi, *pj = &i;
+*pj = j + 5;
+i = *pj + 5;
+pi = pj;
+*pi = i + j;
+Si el valor asignado a i empieza en la dirección F9C (hexadecimal) y el valor asignado a j empieza
+en FE9 entonces, después de ejecutar todas las sentencias:
+
+a) ¿Qué valor es representado por &i?
+La dirección en memoria del entero i, F9C
+
+b) ¿Qué valor es representado por &j?
+La dirección en memoria del entero j, FE9
+
+c) ¿Qué valor es asignado a pj?
+La dirección en memoria del entero i, F9C
+
+d) ¿Qué valor es asignado a *pj?
+Se guarda en la dirección del elemento i, el valor 60
+
+e) ¿Qué valor es asignado a i?
+Al principio es basura pero tras la asignación de *pj vale 60
+
+f) ¿Qué valor es representado por pi?
+F9C
+
+g) ¿Qué valor es asignado a *pi?
+El mismo que a *pj ya que se trata del mismo espacio de memoria aunque halla su valor modificado,
+se trata del valor de i, 60
+
+h) ¿Qué valor es representado por la expresión (*pi + 2)?
+El valor de i + 2 = 60 + 2 = 62

@@ -1,0 +1,27 @@
+Supón una matriz dinámica (float ** tabla) de 2x3 elementos, con los siguientes valores.
+{ {1.1, 1.2, 1.3}, {2.1.,2.2, 2.3}}
+
+//Supongo que la matriz de ha generado por filas
+●¿Cual es el significado de tabla?
+Se trata de un puntero de tipo float ** que apunta al inicio de del vector de filas.
+
+●¿Cual es el significado de (tabla+1)?
+Se trata de un puntero de tipo float ** que apunta al segundo elemento del vector de filas.
+
+●¿Cual es el significado de *(tabla+1)?
+Se trata del contenido de un puntero(la dirección) de tipo float * que apunta a su correspondiente matriz de columnas en la fila dos.
+
+●¿Cual es el significado de (*(tabla+1)+1)?
+Se trata de un puntero de tipo float *, que apunta, dentro de la matriz de columnas de la fila dos, al segundo elemento.
+
+●¿Cual es el significado de (*(tabla)+1)?
+Se trata de un puntero de tipo float *, que apunta, dentro de la matriz de columnas de la primera fila, al segundo elemento.
+
+●¿Cual es el valor de *(*(tabla+1)+1)?
+Se trata del contenido de un puntero de tipo float*, (por lo cual es tipo float), que apunta, dentro de la matriz de columnas de la fila dos, al segundo elemento.
+
+●¿Cual es el valor de *(*(tabla)+1)?
+Se trata del contenido de un puntero de tipo float *, (por lo cual es tipo float), que apunta, dentro de la matriz de columnas de la primera fila, al segundo elemento.
+
+●¿Cual es el valor de *(*(tabla+1))?
+Se trata del contenido de un puntero de tipo float *, (por lo cual es tipo float), que apunta, dentro de la matriz de columnas de la fila dos, al primer elemento.

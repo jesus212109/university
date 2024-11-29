@@ -1,0 +1,52 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main(){
+	char cadena[100] = "Esto es una   cadena de   ejemplo";
+	char del[2] = " ";
+    int i;
+    	
+	printf("Cadena original: <%s>\n", cadena);
+
+	//Cadena de caracteres con el siguiente token (siguiente palabra)
+	char * token;
+
+	//Vector de cadenas de caracteres
+	// Como la cadena es char*, un vector de cadenas es char**
+	char ** Tokens = NULL;
+
+	//Contador del numero de palabras
+	int nTokens = 0;
+
+	//  La primera vez que se llama a strtok, se le pasa:
+	//	-La cadena de caracteres completa
+	//	-La cadena con el delimitador (que en nuestro caso es un espacio)
+	token = strtok(cadena, del);
+    
+    // strtok devuelve una cadena con el token.
+	// Cuando strtok no encuentra más palabras, devuelve NULL.
+	while( token != NULL){
+		// Reservamos espacio para una nueva cadena en nuestro vector de cadenas con realloc
+		Tokens = (char **) realloc (Tokens, (nTokens+1)*(sizeof(char *)));
+		
+		//Pasamos el token al vector de tokens
+		Tokens[nTokens] = token;
+		nTokens++;
+
+		//Obtenemos el siguiente token o palabra de la cadena
+		// En la segunda y consecutivas llamadas a strtok NO se le pasa de nuevo la cadena
+		// Se le pasa NULL como primer parámetro, para que siga trabajando sobre la cadena que se le pasó antes
+		// Seguirá obteniendo palabras a partir de la última que obtuvo en la última llamada
+		token = strtok(NULL, del);
+	}
+
+    //Imprimimos los tokens 
+	printf("%d tokens: \n", nTokens);
+    for (i=0; i< nTokens; i++)
+      printf("Token[%d]: <%s>\n", i, Tokens[i]);
+
+    //Liberamos memoria
+    free(Tokens);
+	return 0;
+}

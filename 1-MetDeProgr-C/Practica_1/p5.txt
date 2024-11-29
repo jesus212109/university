@@ -1,0 +1,17 @@
+Un programa en C contiene la siguiente declaración:
+int x[8] = {10, 20, 30, 40, 50, 60, 70, 80};
+
+a) ¿Cuál es el significado de x?
+Es el nombre que se le da al vector de 8 elementos 
+
+b) ¿Cuál es el significado de (x + 2) ?
+Esta expresion es equivalente a &(x[0+2])
+
+c) ¿Cuál es el valor de *x?
+Equivale a x[0]
+
+d) ¿Cuál es el valor de (*x+2) ?
+Equivale a x[0] + 2, es decir, el contenido en la posición x[0] el cual será un entero, más el valor 2 como entero
+
+e) ¿Cuál es el valor de *(x+2)?
+Equivale a x[2]

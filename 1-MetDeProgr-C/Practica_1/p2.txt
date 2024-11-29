@@ -1,0 +1,25 @@
+Explica el significado de cada una de las siguientes declaraciones, así como el valor inicial que
+toman las variables en cada caso:
+
+a) int *px;
+//Declara un puntero de tipo entero con nombre px y valor inicial basura
+
+b) float a, b;
+//Declara dos flotantes con valor inicial basura
+
+c) float *pa, *pb;
+//Declara dos punteros de tipo flotante con nombre pa y pb y valor inicial basura
+
+d) float d=-0.167;
+//Declara un flotante inicializado con el valor -0.167
+
+e) float *pd =&d;
+//Declara un puntero de tipo flotante inicializado con el valor de la direción del elemnto d,
+el cual debe haber sido inicializado como flotante
+
+f) char c1, c2, c3;
+//Declara 3 carácteres distintos sin inicializar
+
+g) char *pc1, *pc2, *pc3 =&c1;
+//Declara 3 punteros de tipo char inicializados los 3 con la dirección en memoria de c1,
+ el cual debe haber sido inicializado como char

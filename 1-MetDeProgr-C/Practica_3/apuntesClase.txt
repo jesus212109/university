@@ -1,0 +1,10 @@
+La utilidad de los ficheros consiste enalmacenar información consistentemente en el tiempo
+
+-Ficheros de texto: Consisten en ficheros no binarios cuales tienen el objetivo de ser leídos por el ordenador, 
+    por lo cual, es prioridad evitar información dedundante y postprocesado.
+
+    ·Para abrir ficheros repasar pdf, ojo con abrir en modo w, ´si existe el documento, borra la información, además,
+    no podemos olvidar cerrar siempre los ficheros.
+
+    ·
+    

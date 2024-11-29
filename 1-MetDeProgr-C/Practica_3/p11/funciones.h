@@ -1,0 +1,1 @@
+int cuenta( const char c[], const char car );

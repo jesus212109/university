@@ -1,0 +1,1 @@
+void TodoMay(char* cad1, char* cad2);
