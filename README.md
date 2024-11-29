@@ -12,7 +12,7 @@ The repository is organized into folders based on the subjects or courses I have
 
 ## 🚀 Technologies Used
 
-- **Programming Languages**: Python, C, C++, Oracle, HTML, CSS, JavaScript.
+- **Programming Languages**: Python, C, C++, SQL, HTML, CSS, JavaScript.
 - **Tools**: Git, VS Code, JetBrains IDEs.
 - **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn (for machine learning).
 
